@@ -1,3 +1,3 @@
 Razor Pages
 
-Presentation by Jess Chadwick
+Tutorial by Jess Chadwick
